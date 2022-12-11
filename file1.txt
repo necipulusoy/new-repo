@@ -1,2 +1,3 @@
 github ile oluşturuldu
 git ile oluşturuldu
+3. satır github'ta oluşturuldu
