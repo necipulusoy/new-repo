@@ -1,2 +1,4 @@
 github ile oluşturuldu
 git ile oluşturuldu
+bu satır localde yazıld
+bu satır localde yazıldıı
