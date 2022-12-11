@@ -3,4 +3,4 @@ git ile oluşturuldu
 bu satır localde yazıld
 bu satır localde yazıldıı
 3. satır github'ta oluşturuldu
-
+bu satır dev branchı ile oluşturuldu
