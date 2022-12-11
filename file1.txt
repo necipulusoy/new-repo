@@ -1,1 +1,2 @@
 github ile oluşturuldu
+git ile oluşturuldu
